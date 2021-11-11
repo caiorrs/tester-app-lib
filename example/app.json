@@ -1,0 +1,22 @@
+{
+  "name": "tester-app-lib-example",
+  "displayName": "TesterAppLib Example",
+  "expo": {
+    "name": "tester-app-lib-example",
+    "slug": "tester-app-lib-example",
+    "description": "Example app for tester-app-lib",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
